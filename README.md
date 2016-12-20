@@ -8,3 +8,7 @@ A simple demo of how to set up and use Sync to fetch data from the networking an
 ## Running the project
 
 - Open `Project.xcodeproj` and run
+
+## Apple Developers Club - 
+
+https://www.meetup.com/Apple-Developers-Club-Ahmedabad/
